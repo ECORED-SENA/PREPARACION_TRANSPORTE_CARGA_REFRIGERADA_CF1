@@ -180,8 +180,77 @@
 
     p.mb-4(data-aos="fade") En la manipulación de la carga refrigerada es necesario considerar los siguientes aspectos:
 
+    .color-acento4.p-4.mb-5
+      LineaTiempoC.color-acento-contenido
+        .row.justify-content-center(titulo="1")
+          .col-md-5.mb-4.mb-md-0
+            figure
+              img(src='@/assets/curso/tema1-2-linea1.jpg', alt='Texto que describa la imagen')        
+          .col-md-5
+            p Las operaciones de carga y descarga deberán realizarse lo más rápido posible, evitando el cambio de temperatura de los alimentos.
+        .row.justify-content-center(titulo="2")
+          .col-md-5.mb-4.mb-md-0
+            figure
+              img(src='@/assets/curso/tema1-2-linea2.jpg', alt='Texto que describa la imagen')        
+          .col-md-5
+            p Las puertas de los camiones no deberán abrirse hasta el momento inmediato de la carga o descarga.
+        .row.justify-content-center(titulo="3")
+          .col-md-5.mb-4.mb-md-0
+            figure
+              img(src='@/assets/curso/tema1-2-linea3.jpg', alt='Texto que describa la imagen')        
+          .col-md-5
+            p Los alimentos perecederos o congelados deben llegar de forma segura al consumidor.
+        .row.justify-content-center(titulo="4")
+          .col-md-5.mb-4.mb-md-0
+            figure
+              img(src='@/assets/curso/tema1-2-linea4.jpg', alt='Texto que describa la imagen')        
+          .col-md-5
+            p El transporte simultáneo de distintos tipos de alimentos refrigerados debe realizarse con la condición que las temperaturas de transporte en cada uno sean compatibles y que no puedan ser objeto de alteraciones.
+        .row.justify-content-center(titulo="5")
+          .col-md-5.mb-4.mb-md-0
+            figure
+              img(src='@/assets/curso/tema1-2-linea5.jpg', alt='Texto que describa la imagen')        
+          .col-md-5
+            p Las operaciones se lleven a cabo sin alterar las condiciones de conservación de los productos.       
 
-  
+    h3.titulo-tercero 
+      span Embalaje y rotulado
+
+    .row
+      .col-md-6.mb-4(data-aos="fade-right")
+        p El embalaje es una de las etapas de preparación de las mercancías que consiste en envolver o empacar de acuerdo a sus requerimientos para conservar y asegurar las condiciones adecuadas de los productos. El rotulado complementa esta acción pues se asegura de generar una identificación en el paquete para su posterior asignación.
+      .col-md-6.mb-4(data-aos="fade-left")
+        img(src='@/assets/curso/tema1-2-img.jpg', alt='Imagen decorativa')
+
+    p.mb-5(data-aos="fade") <em>Proexport</em> en su conferencia <b>“Logística en la cadena de frío”</b> (Navarro, 2013) dio a conocer la siguiente información sobre el almacenamiento de los productos congelados.
+
+    .row.justify-content-center.mb-5(data-aos="fade-down") 
+      .col-md-10  
+        .bloque-texto-f.color-acento3.pt-5.px-5
+          .bloque-texto-f__comillas
+            i.fas.fa-quote-left
+            i.fas.fa-quote-right
+          .row.justify-content-center
+            .col-md-10
+              h5.bloque-texto-f__texto Se recomienda que las medidas de estos embalajes sean acordes a las estibas, para obtener una mayor optimización de la misma; es decir 60 cm. x 40 cm., la altura depende del tipo de producto que se esté almacenando. 
+                br 
+                | Las estibas deben ser de material plástico o metálicas. Las estibas de madera propician la acumulación de bacterias y cuando se llenan de humedad se parten con facilidad, generando riesgos en la manipulación. (p.15)
+          .bloque-texto-f__autor.mb-3
+            .row.justify-content-center
+              .col-md-10
+                p.mb-0 - Navarro, 2013
+
+    p.mb-4(data-aos="fade") Estas recomendaciones permiten facilitar el proceso de embalaje con el fin de asegurar las características técnicas de las mercancías y optimizar los espacios,
+
+    .row.justify-content-center.fondo-linea(data-aos="fade-down") 
+      .col-md-10.py-5
+        h4.mb-5.text-center Elementos que se deben incluir en el marcado de cajas
+        figure.mb-4(data-aos="fade-down")
+          img(src='@/assets/curso/tema1-2-infografia.svg', alt='Elementos que se deben incluir en el marcado de cajas')
+
+    
+
+
 </template>
 
 <script>

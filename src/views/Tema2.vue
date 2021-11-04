@@ -129,7 +129,7 @@
       .col-md-10.bg-acento-contenido.py-4
         .row.justify-content-center
           .col-md-5.col-10.mb-md-0.mb-4
-            img(src='@/assets/curso/tema2-3-ico2.png', alt='Imagen decorativa')
+            img(src='@/assets/curso/tema2-3-ico2.svg', alt='Imagen decorativa')
           .col-md-5  
             p Los sistemas de registro e indicadores, les permiten a los medios de transporte que posean sistema de refrigeración o congelación, garantizar el mantenimiento de las temperaturas requeridas para la conservación de los alimentos y sus materias primas.
             .wrap-player
