@@ -51,7 +51,7 @@
 
     p.mb-4(data-aos="fade") El contrato de transporte consiste en un acuerdo de transportar una mercancía de un destino a otro por determinado medio y tiempo determinado a cambio de un precio. Una de las partes se obliga para con la otra.
 
-    .tarjeta--container.row
+    .tarjeta--container.row(data-aos="fade-down")
       .col-md.tarjeta.color-primario.p-5
         .row.justify-content-center.mb-4
           .col-6
@@ -82,7 +82,7 @@
 
     p.mb-4(data-aos="fade") En el desarrollo de la operación del transporte de carga es necesario contar con algunos documentos legales obligatorios en nuestro país, como los que se presentan a continuación:
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade-down")
       .col-md-6.col-xl.mb-4.mb-xl-0.d-flex
         .tarjeta-numerada.color-acento-contenido.p-5.px-4
           .tarjeta-numerada__numero
@@ -113,10 +113,10 @@
     
     p.mb-4(data-aos="fade") Estos documentos deben ser portados durante todo el desplazamiento del transporte de la carga, conforme a los lineamientos legales vigentes en el transporte de carga.
 
-    figure.mb-4
+    figure.mb-4(data-aos="fade-down")
       img(src='@/assets/curso/tema3-3-infografia.svg', alt='Fundamentos y lineamientos del transporte de carga refrigerada')
 
-
+    
 
 
 </template>
