@@ -3,27 +3,40 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
   
-    .titulo-principal
-      .titulo-principal__numero
+    .titulo-principal.color-acento-contenido
+      .titulo-principal__numero.text-white
         span
           i.fas.fa-info
       h1 Introducción
     
     figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+      img(src='@/assets/curso/intro-banner.png', alt='Texto que describa la imagen')
     
-    p.mb-5 La necesidad de mitigar la pandemia por COVID-19 ha obligado a la comunidad científica internacional, a desarrollar una serie de investigaciones y desarrollos tendientes a presentar una vacuna para hacerle frente a esta enfermedad que aumenta día a día su morbi mortalidad en Colombia. Es así, como en diciembre de 2020, la comunidad científica presenta los resultados de varios desarrollos de vacunas, que ofrecen eficacia y seguridad, respaldados por estudios clínicos rigurosos.
+    p.mb-4(data-aos="fade") Mediante el siguiente video doy la bienvenida a esta maravillosa experiencia educativa. 
 
-    figure.mb-5
-      img(src="@/assets/curso/banner-intro.jpg", alt="Texto que describa la imagen")
-      figcaption Imagen 1. Vacunación
+    .row.justify-content-center.tarjeta.fondo-video.mb-4.py-5(data-aos="fade-down") 
+      .col-md-10
+        .video
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    p.mb-0 La llegada de nuevas vacunas al país supone un reto para el talento humano en salud responsable de la vacunación y desarrollar habilidades para ofrecer una orientación oportuna y segura a las personas objeto de la vacuna.
-      br
-      br
-      | En ese orden de ideas, este componente formativo guía al aprendiz hacia la identificación de los aspectos normativos, técnicos y operativos de la vacunación contra COVID19 en Colombia y de las generalidades de la infección por SARS-2 COVID 19.
+    p.mb-5(data-aos="fade") Según (Bernal, 2018), el transporte terrestre es: 
+
+    .row.justify-content-center.mb-5(data-aos="fade-down") 
+      .col-md-10  
+        .bloque-texto-f.color-acento3.pt-5.px-5
+          .bloque-texto-f__comillas
+            i.fas.fa-quote-left
+            i.fas.fa-quote-right
+          .row.justify-content-center
+            .col-md-10
+              h5.bloque-texto-f__texto El modo más utilizado en Colombia donde lo principal son los bienes manufacturados y después los agrícolas. Gran parte de la carga transportada es producto de exportación, carga que va desde el interior del país hacia sus principales puertos. Los costos de transporte juegan un papel determinante a la hora del precio final del bien. La cadena de suministro por el cual les toca pasar por diferentes operarios y varios tipos de transporte para llevar al destino final la carga (p.14)
+          .bloque-texto-f__autor.mb-3
+            .row.justify-content-center
+              .col-md-10
+                p.mb-0 - Bernal, 2018          
+
+    p(data-aos="fade") El transporte de carga terrestre es el más empleado para la distribución de alimentos y productos que requieran mantener su cadena de frío para su posterior consumo. Asegurando de esta manera la inocuidad y buen estado de los mismos.
+
 
 </template>
 

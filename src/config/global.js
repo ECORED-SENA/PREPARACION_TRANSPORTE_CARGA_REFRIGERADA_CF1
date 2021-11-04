@@ -4,7 +4,7 @@ export default {
       'Fundamentos y lineamientos del transporte de carga refrigerada',
     descripcionCurso:
       'A través de la definición de los fundamentos y lineamientos del transporte de carga se establecen todas las condiciones exigidas en el transporte de alimentos refrigerados y congelados con vehículos especializados isotermos para conservar la temperatura de su carga según las normas requeridas, identificando claramente la documentación legal exigida en nuestro país y la solicitada por la organización responsable.',
-    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
   menuPrincipal: {
