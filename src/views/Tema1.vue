@@ -46,7 +46,7 @@
               p Los alimentos perecederos o congelados lleguen de forma segura al consumidor.
           .row.justify-content-center
             .col-md-9.mb-4.mb-md-0
-              p Cada tipología de alimentos requiere una condiciones específicas de refrigeración.
+              p Cada tipología de alimentos requieren unas condiciones específicas de refrigeración.
             .col-md-2
               figure
                 img(src='@/assets/curso/tema1-1-paso4.svg', alt='Texto que describa la imagen')         
@@ -100,7 +100,7 @@
               p.mb-0 <b>Cargas medianas:</b>  son más grandes que las cargas pequeñas y pueden alcanzar un peso de 10 kg.
             li.mb-0
               i.fas.fa-circle
-              p.mb-0 <b>Cargas grande o estibas:</b> requieren un embalaje estandarizado, van agrupadas sobre una estiba.
+              p.mb-0 <b>Cargas grandes o estibas:</b> requieren un embalaje estandarizado, van agrupadas sobre una estiba.
             li.mb-0 
               i.fas.fa-circle
               p.mb-0 <b>Cargas voluminosas:</b> son mercancías de grandes dimensiones.
@@ -120,7 +120,7 @@
               p.mb-0 <b>Cargas ligeras:</b> son cargas que no superan los 5 kg.
             li.mb-0
               i.fas.fa-circle
-              p.mb-0 <b>Cargas medianas:</b> estas cargan tienen un peso mínimo de 5 kg y máximo kg.
+              p.mb-0 <b>Cargas medianas:</b> estas cargas tienen un peso mínimo de 5 kg y máximo kg.
             li.mb-0
               i.fas.fa-circle
               p.mb-0 <b>Cargas pesadas:</b> el peso oscila entre 25 kg y una tonelada.

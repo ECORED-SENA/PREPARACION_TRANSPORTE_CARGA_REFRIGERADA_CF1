@@ -108,7 +108,7 @@
     p.mb-5(data-aos="fade") Según la “Guía de inocuidad de alimentos y bebidas para la actividad de transporte”  (Salud, 2017) afirma:
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
-      .col-md-10.bg-acento3
+      .col-md-10.bg-acento3.py-5.py-md-0
         .row.justify-content-center.align-items-center
           .col-md-8.mb-md-0.mb-4
             .bloque-texto-f.pt-md-3.pt-5.px-4.py-md-3.py-2
