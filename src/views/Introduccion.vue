@@ -17,7 +17,7 @@
     .row.justify-content-center.tarjeta.fondo-video.mb-4.py-5(data-aos="fade-down") 
       .col-md-10
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/pNDmbv7_lbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mb-5(data-aos="fade") Según (Bernal, 2018), el transporte terrestre es: 
 
