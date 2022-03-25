@@ -8,7 +8,7 @@
         span 3
       h1 Reglamentación vigente en Colombia en el transporte de carga
 
-    p(data-aos="fade") La vigilancia de transporte de productos cárnicos es una tarea interdisciplinaria en la cual las entidades que velan por la salud pública se apoyan y se complementan. (Ialimentos ediciones, 2015) considera los siguiente:
+    p(data-aos="fade") La vigilancia de transporte de productos cárnicos es una tarea interdisciplinaria en la cual las entidades que velan por la salud pública se apoyan y se complementan. (Alimentos ediciones, 2015) considera los siguiente:
 
     Separador
 

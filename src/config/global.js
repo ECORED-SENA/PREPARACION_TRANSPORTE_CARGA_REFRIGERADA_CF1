@@ -134,11 +134,11 @@ export default {
   referencias: [
     {
       referencia:
-        'Artìculo 981. Contrato de transporte. (s.f.). Código de Comercio. Colombia.',
+        'Artículo 981. Contrato de transporte. (s.f.). Código de Comercio. Colombia.',
     },
     {
       referencia:
-        'Barbaràn, D. G. (s.f.). Calificación del proceso de embalaje, transporte y distribución en la cadena de frío, como almacèn de producto terminado. Trujillo, Perù.',
+        'Barbarán, D. G. (s.f.). Calificación del proceso de embalaje, transporte y distribución en la cadena de frío, como almacén de producto terminado. Trujillo, Perú.',
     },
     {
       referencia:
@@ -146,7 +146,7 @@ export default {
     },
     {
       referencia:
-        'Dirección de alimentos y bebidas. Invima. (s.f.). Orientaciòn tècnica para verificaciòn de temperaturas de conservaciòn de alimentos y bebidas en establecimientos competencia de las entidades territoriales de salud. Colombia.',
+        'Dirección de alimentos y bebidas. Invima. (s.f.). Orientación técnica para verificación de temperaturas de conservaciòn de alimentos y bebidas en establecimientos competencia de las entidades territoriales de salud. Colombia.',
     },
 
     {
@@ -164,15 +164,15 @@ export default {
     },
     {
       referencia:
-        'Navarro, H. (2013). Logìstica en la cadena de frío. (p.13). Bogotá: Proexport.',
+        'Navarro, H. (2013). Logística en la cadena de frío. (p.13). Bogotá: Proexport.',
     },
     {
       referencia:
-        'Salud, M. d. (2017). Guìa de inocuidad de alimentos y bebidas para la actividad de transporte. Subdirecciòn de Salud Nutricional, alimentos y bebidas. Bogotá, Colombia.',
+        'Salud, M. d. (2017). Guía de inocuidad de alimentos y bebidas para la actividad de transporte. Subdirección de Salud Nutricional, alimentos y bebidas. Bogotá, Colombia.',
     },
     {
       referencia:
-        'Transporte, M. d. (2004). RESOLUCIÒN 2505 DE 2004. Colombia: Ministerio de Transporte.',
+        'Transporte, M. d. (2004). RESOLUCIÓN 2505 DE 2004. Colombia: Ministerio de Transporte.',
     },
     {
       referencia:
@@ -207,13 +207,13 @@ export default {
   complementario: [
     {
       texto:
-        'Barbaràn, D. G. (s.f.). Calificación del proceso de embalaje, transporte y distribución en la cadena de frío, como almacèn de producto terminado. Trujillo, Perù.',
+        'Barbarán, D. G. (s.f.). Calificación del proceso de embalaje, transporte y distribución en la cadena de frío, como almacén de producto terminado. Trujillo, Perú.',
       tipo: 'Proyecto de grado',
       link: 'https://dspace.unitru.edu.pe/handle/UNITRU/1864',
     },
     {
       texto:
-        'Dirección de alimentos y bebidas. Invima. (s.f.). Orientaciòn tècnica para verificaciòn de temperaturas de conservaciòn de alimentos y bebidas en establecimientos competencia de las entidades territoriales de salud. Colombia.',
+        'Dirección de alimentos y bebidas. Invima. (s.f.). Orientación técnica para verificación de temperaturas de conservación de alimentos y bebidas en establecimientos competencia de las entidades territoriales de salud. Colombia.',
       tipo: 'Circular',
       link:
         'https://www.invima.gov.co/documents/20143/1298143/CIRCULAR-EXTERNA-400-1395-17.pdf/601ee00c-17e4-fb31-c65c-333937f95759?t=1565720260971',

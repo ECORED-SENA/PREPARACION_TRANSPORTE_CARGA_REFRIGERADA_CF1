@@ -59,7 +59,7 @@
       .tarjeta.color-acento3--borde.p-4.row.justify-content-center(titulo="Camión isotermo")
         .col-md-5
           h4 Camión isotermo
-          p La caja de este de este vehículo es especial, pues dispone de paredes aislantes, que mantiene la temperatura del camión, impidiendo que el calor afecte a los alimentos que contienen.
+          p La caja de este vehículo es especial, pues dispone de paredes aislantes, que mantiene la temperatura del camión, impidiendo que el calor afecte a los alimentos que contienen.
         .col-md-6
           img(src='@/assets/curso/tema2-1-tab2.jpg', alt='Camión isotermo')
       .tarjeta.color-acento3--borde.p-4.row.justify-content-center(titulo="Camión refrigerante")
