@@ -215,8 +215,7 @@ export default {
       texto:
         'Dirección de alimentos y bebidas. Invima. (s.f.). Orientación técnica para verificación de temperaturas de conservación de alimentos y bebidas en establecimientos competencia de las entidades territoriales de salud. Colombia.',
       tipo: 'Circular',
-      link:
-        'https://www.invima.gov.co/documents/20143/1298143/CIRCULAR-EXTERNA-400-1395-17.pdf/601ee00c-17e4-fb31-c65c-333937f95759?t=1565720260971',
+      descarga: 'downloads/CIRCULAR-EXTERNA-400-1395-17.pdf',
     },
   ],
   creditos: {
